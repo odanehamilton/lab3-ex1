@@ -5,7 +5,7 @@ fromname = 'Odane'
 toname = 'George'
 subject = 'Test email'
 msg = 'This is the test message to be sent'
-toaddr  = 'odane.hamilton@hotmail.com'
+toaddr  = 'me@odanephamilton.com'
 message = """From: {} <{}>
 To: {} <{}>
 Subject: {}
