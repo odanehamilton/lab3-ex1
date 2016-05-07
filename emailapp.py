@@ -1,7 +1,7 @@
 import smtplib
 
 fromaddr = 'odane.hamilton@gmail.com'
-fromname = 'Odane'
+fromname = 'Odane P. Hamilton'
 toname = 'George'
 subject = 'Test email'
 msg = 'This is the test message to be sent'
